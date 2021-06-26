@@ -39,7 +39,7 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $149.99
-    image: /images/nan_talk.jpg
+    image: /images/promo.jpg
     background_image: /images/leaf.svg
     cta:
       type: action
